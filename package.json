@@ -1,0 +1,19 @@
+{
+  "name": "template-css",
+  "version": "0.0.0",
+  "description": "A way to derive CSS from an HTML template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "SASS"
+  ],
+  "author": "Nick Carenza",
+  "license": "ISC",
+  "dependencies": {
+    "htmlparser2": "^3.7.1"
+  }
+}
